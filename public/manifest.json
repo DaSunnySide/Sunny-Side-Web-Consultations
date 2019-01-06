@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sunny Side Web Consultation",
+  "name": "Sunny Side Web Consultation - Shedding Light on Your Business Ventures. Sunny Side Web Consultation will secure you a strong position in the modern market. Let's work together to shed some light on your business ventures! We focus on search engine optimization, intuitive, creative, and engaging user interface designs, and maintaining a high client conversion ratio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Banner.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
